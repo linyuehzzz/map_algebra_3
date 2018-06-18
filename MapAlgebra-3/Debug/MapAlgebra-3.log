@@ -1,0 +1,20 @@
+﻿  MorphologicalTransformer.cpp
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(74): warning C4305: “=”: 从“double”到“float”截断
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(28): warning C4101: “j”: 未引用的局部变量
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(28): warning C4101: “i”: 未引用的局部变量
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(167): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(256): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(346): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(348): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(518): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(521): warning C4018: “<”: 有符号/无符号不匹配
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(563): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(566): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\lydia\资环6班\大三下\地图代数\实习\4\mapalgebra-3\mapalgebra-3\morphologicaltransformer.cpp(570): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  MapAlgebra-3.cpp
+  MapAlgebra-3.vcxproj -> D:\Lydia\资环6班\大三下\地图代数\实习\4\MapAlgebra-3\Debug\MapAlgebra-3.exe
+  MapAlgebra-3.vcxproj -> D:\Lydia\资环6班\大三下\地图代数\实习\4\MapAlgebra-3\Debug\MapAlgebra-3.pdb (Full PDB)
